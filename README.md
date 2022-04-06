@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ginutgeorge
 - 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning Google Data Analytics Professional Certificate
 - 💞️ I’m looking to collaborate on IT Projects.
 - 📫 Mail me @ginu.t.george@gmail.com
 
